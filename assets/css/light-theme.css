@@ -2797,7 +2797,7 @@ button:focus {
 }
 
 .banner-bg {
-  background: url(../../images/banner-bg.png);
+  background: url(../assets/images/banner-bg.png);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -3612,7 +3612,7 @@ button:focus {
 }
 
 .counter-bg {
-  background: url(../../images/counter-bg.png);
+  background: url(../assets/images/counter-bg.png);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
