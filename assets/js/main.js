@@ -13,11 +13,16 @@ $(function () {
 
 
 // FOR DROPDOWN INDICATOR ROTATE
+$(".dropdown-indicator").on('click', function(){
+    $(".dropdown-indicator").removeClass('active');
+    $(this).addClass('active');
+})
+
+// NAV INDICADOR
 $(".navbar-item").on('click', function(){
     $(".navbar-item").removeClass('active');
     $(this).addClass('active');
 })
-
 
 // FOR RESPONSIVE SLIDE NAVBAR
 $(".navbar-toggle").on('click', function(){
