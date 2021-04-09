@@ -2797,7 +2797,7 @@ button:focus {
 }
 
 .banner-bg {
-  background: url(../assets/images/banner-bg.png);
+  background: url(../../assets/img/images/banner-bg.png);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -3521,7 +3521,7 @@ button:focus {
 }
 
 .discuss-bg {
-  background: url(../../images/discuss-bg.png);
+  background: url(../../assets/img/images/discuss-bg.png);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -3612,7 +3612,7 @@ button:focus {
 }
 
 .counter-bg {
-  background: url(../assets/images/counter-bg.png);
+  background: url(../../assets/img/images/counter-bg.png);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
